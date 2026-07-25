@@ -27,9 +27,9 @@
 ### 📅 Today · Saturday 25 July (Sydney)
 
 - **All day** · 📌 **20TEEN BIRTHDAY**
-- 12:30–16:00 · 📌 **SOJEAN LUNCH**
+- 12:30pm–4:00pm · 📌 **SOJEAN LUNCH**
 
-<sub>🔄 Updated 10:17 PM Sydney · via Google Calendar</sub>
+<sub>🔄 Updated 10:52 PM Sydney · via Google Calendar</sub>
 <!--END_SECTION:calendar-->
 
 <!-- animated rainbow divider -->
