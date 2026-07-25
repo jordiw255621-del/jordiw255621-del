@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PROFILE_VIEWS-67-8B5CF6?style=for-the-badge" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=jordiw255621-del&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" alt="views" />
 </p>
 
 <p align="center">
