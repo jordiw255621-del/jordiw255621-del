@@ -12,6 +12,12 @@
   <img src="https://komarev.com/ghpvc/?username=jordiw255621-del&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" alt="views" />
 </p>
 
+<p align="center">
+  <!--START_SECTION:time-->
+  🕒 <b>Saturday, 25 July 2026 &nbsp;·&nbsp; 07:53 PM</b> &nbsp;<sub>Sydney time</sub>
+  <!--END_SECTION:time-->
+</p>
+
 <!-- animated rainbow divider -->
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
@@ -56,6 +62,22 @@ class Jordan:
 
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
+## 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/jordiw255621-del/daylog">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jordiw255621-del&repo=daylog&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/jordiw255621-del/momentum">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jordiw255621-del&repo=momentum&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+- 🌙 **[DayLog](https://github.com/jordiw255621-del/daylog)** *(Java)* — a terminal micro-journaling companion: capture the day's little moments, then reflect them into a journal at night.
+- 📈 **[Momentum](https://github.com/jordiw255621-del/momentum)** *(Python)* — track the problems you're working on and let a trend-analysis engine tell you whether you're actually improving.
+
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -85,6 +107,25 @@ class Jordan:
 - 🎬 **Automated clipping** on YouTube as a side project *(building the pipeline is half the fun)*
 - 🟣 **Streaming** on Twitch
 - 🎮 **Old School RuneScape** — 7 years deep, Quest Cape earned
+
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
+## 🎧 Now Playing
+
+<p align="center">
+  <!-- Spotify now-playing widget. Activates once the Spotify integration is deployed — see SPOTIFY_SETUP.md -->
+  <a href="https://open.spotify.com/user/">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=CHANGE_ME&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=8b5cf6&bar_color_cover=false" alt="Spotify now playing" />
+  </a>
+</p>
+
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
+## 💭 Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote" />
+</p>
 
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
