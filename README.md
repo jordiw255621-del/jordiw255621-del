@@ -1,5 +1,5 @@
 <!-- Waving header banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0b0b2a,100:000000&height=180&section=header&text=MOLLY%20TEAAAAAA&fontSize=55&fontColor=ffffff&fontAlignY=35&animation=twinkling" />
+<img width="100%" src="./molly.gif" alt="MOLLY TEAAAAAA" />
 
 <!-- Typing intro -->
 <p align="center">
