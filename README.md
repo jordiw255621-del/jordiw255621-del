@@ -26,11 +26,11 @@
 <!--START_SECTION:calendar-->
 ### 📅 Today · Sunday 26 July (Sydney)
 
-- 9:30am–5:00pm · 💼 **WORKK**
+- 9:30am–5:00pm · 🟢 **WORKK**  ← now
 - 5:00pm–7:00pm · 🏋️ **GYM**
 - 5:30pm–7:00pm · 📌 **CHURCH**
 
-<sub>🔄 Updated 08:26 AM Sydney · via Google Calendar</sub>
+<sub>🔄 Updated 09:31 AM Sydney · via Google Calendar</sub>
 <!--END_SECTION:calendar-->
 
 <!-- animated rainbow divider -->
