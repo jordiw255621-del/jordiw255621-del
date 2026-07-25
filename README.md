@@ -21,6 +21,15 @@
 <!-- animated rainbow divider -->
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
+## 📅 What I'm Up To
+
+<!--START_SECTION:calendar-->
+_Linking my calendar… check back soon._
+<!--END_SECTION:calendar-->
+
+<!-- animated rainbow divider -->
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
 ## 🧑‍💻 About Me
 
 ```python
