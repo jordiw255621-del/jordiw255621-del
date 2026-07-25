@@ -1,6 +1,6 @@
 <!-- ===== Animated starfield banner ===== -->
 <p align="center">
-  <img src="./molly.gif" width="100%" alt="MOLLY TEAAAAAA" />
+  <img src="./molly.gif" width="100%" alt="I <3 MOLLY" />
 </p>
 
 <!-- ===== Typing intro ===== -->
