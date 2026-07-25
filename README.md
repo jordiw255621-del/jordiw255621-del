@@ -24,7 +24,12 @@
 ## 📅 What I'm Up To
 
 <!--START_SECTION:calendar-->
-_Linking my calendar… check back soon._
+### 📅 Today · Saturday 25 July (Sydney)
+
+- **All day** · 📌 **20TEEN BIRTHDAY**
+- 12:30–16:00 · 📌 **SOJEAN LUNCH**
+
+<sub>🔄 Updated 10:17 PM Sydney · via Google Calendar</sub>
 <!--END_SECTION:calendar-->
 
 <!-- animated rainbow divider -->
