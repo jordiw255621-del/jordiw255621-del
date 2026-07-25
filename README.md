@@ -12,6 +12,11 @@
   <img src="https://komarev.com/ghpvc/?username=jordiw255621-del&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" alt="views" />
 </p>
 
+<!-- ===== Animated clock (decorative — sweeps live in-browser) ===== -->
+<p align="center">
+  <img src="./clock.svg" width="170" alt="ticking clock" />
+</p>
+
 <p align="center">
   <!--START_SECTION:time-->
   <b>Saturday, 25 July 2026 &nbsp;·&nbsp; 10:30 PM · Sydney time</sub>
