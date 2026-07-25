@@ -14,7 +14,7 @@
 
 <p align="center">
   <!--START_SECTION:time-->
-   <b>Saturday, 25 July 2026 &nbsp;·&nbsp; 08:54 PM · Sydney time</sub>
+  🕒 <b>Saturday, 25 July 2026 &nbsp;·&nbsp; 08:54 PM</b> &nbsp;<sub>Sydney time</sub>
   <!--END_SECTION:time-->
 </p>
 
