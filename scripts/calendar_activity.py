@@ -43,6 +43,11 @@ def as_sydney(value) -> datetime.datetime:
     return datetime.datetime(value.year, value.month, value.day, tzinfo=TZ)
 
 
+def t12(dt: datetime.datetime) -> str:
+    """12-hour time, no leading zero, lowercase am/pm — e.g. 12:30pm."""
+    return dt.strftime("%-I:%M%p").lower()
+
+
 def collect_events(day_start, day_end):
     urls = [u.strip() for u in os.environ.get("CAL_ICS_URL", "").split(",") if u.strip()]
     events = []
@@ -74,7 +79,7 @@ def render(events, now) -> str:
             continue
 
         is_now = start <= now < (end or start + datetime.timedelta(hours=1))
-        when = f"{start:%H:%M}" + (f"–{end:%H:%M}" if end else "")
+        when = t12(start) + (f"–{t12(end)}" if end else "")
         icon = "🟢" if is_now else emoji_for(title)
         tail = "  ← now" if is_now else ""
         rows.append((start, f"- {when} · {icon} **{title}**{tail}"))
