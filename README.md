@@ -113,9 +113,8 @@ class Jordan:
 ## 🎧 Now Playing
 
 <p align="center">
-  <!-- Spotify now-playing widget. Activates once the Spotify integration is deployed — see SPOTIFY_SETUP.md -->
-  <a href="https://open.spotify.com/user/">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=CHANGE_ME&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=8b5cf6&bar_color_cover=false" alt="Spotify now playing" />
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=7pt4qlii6dd3s7z3fck6srv4n&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false" alt="Spotify now playing" />
   </a>
 </p>
 
