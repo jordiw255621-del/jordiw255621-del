@@ -96,4 +96,4 @@ class Jordan:
 <!-- ===== Waving footer ===== -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a0b2e,100:000000&height=120&section=footer&animation=twinkling" />
 
-<p align="center"><i>⭐️ Thanks for stopping by — MOLLY TEAAAAAA ⭐️</i></p>
+<p align="center"><i>⭐️ Thanks for landing on my page ⭐️</i></p>
