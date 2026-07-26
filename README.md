@@ -50,46 +50,7 @@ class Jordan:
 ```
 
 - 🎓 Studying **Information Technology** full-time at the **University of Technology Sydney (UTS)**
-- 💼 Working full-time on the **IT team at SocialBoothAU** *(since July 2026)*, where I:
-  - 💳 Build **payment API integrations** with **Stripe** card terminals & devices
-  - ☁️ Run edge + cloud infrastructure across **Cloudflare** and **AWS CloudWatch**
-  - 🖥️ **Monitor our photobooth fleet remotely** through in-house applications
-  - 🚨 **Log issues, flag faulty machines,** and drive incident response so the booths stay online
-- 🌱 Currently leveling up my **backend, cloud & observability** game
-- 🧩 7-year **Old School RuneScape** account holder — with the **Quest Cape** 🧢
-
-<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-
-## 🛠️ Tech & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,html,aws,cloudflare,git,github,linux,vscode,idea&theme=dark" alt="skills" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS_CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
-</p>
-
-<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-
-## 🚀 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/jordiw255621-del/daylog">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jordiw255621-del&repo=daylog&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/jordiw255621-del/momentum">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jordiw255621-del&repo=momentum&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
-- 🌙 **[DayLog](https://github.com/jordiw255621-del/daylog)** *(Java)* — a terminal micro-journaling companion: capture the day's little moments, then reflect them into a journal at night.
-- 📈 **[Momentum](https://github.com/jordiw255621-del/momentum)** *(Python)* — track the problems you're working on and let a trend-analysis engine tell you whether you're actually improving.
+- 💼 Working full-time on the **IT team at SocialBoothAU** *(since July 2026)*
 
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
@@ -112,16 +73,6 @@ class Jordan:
 <p align="center">
   <img src="https://raw.githubusercontent.com/jordiw255621-del/jordiw255621-del/output/snake-dark.svg" alt="snake" />
 </p>
-
-<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-
-## 🎯 Beyond the Keyboard
-
-- 🧗 **Bouldering** — problem-solving, just with more chalk
-- 🏐 **Social volleyball** — bump, set, spike
-- 🎬 **Automated clipping** on YouTube as a side project *(building the pipeline is half the fun)*
-- 🟣 **Streaming** on Twitch
-- 🎮 **Old School RuneScape** — 7 years deep, Quest Cape earned
 
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
