@@ -45,7 +45,7 @@ class Jordan:
         self.education   = "B. Information Technology @ UTS (full-time)"
         self.role        = "IT @ SocialBoothAU (full-time)"
         self.languages   = ["Java", "Python", "HTML"]
-        self.focus       = ["cloud infra", "observability", "payments"]
+        self.focus       = ["cloud infra", "soc", "linux"
         self.coffee      = True
 ```
 
