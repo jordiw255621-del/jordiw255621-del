@@ -45,8 +45,8 @@ class Jordan:
         self.education   = "B. Information Technology @ UTS (full-time)"
         self.role        = "IT @ SocialBoothAU (full-time)"
         self.languages   = ["Java", "Python", "HTML"]
-        self.focus       = ["cloud infra", "soc", "linux"
-        self.coffee      = True
+        self.focus       = ["cloud infra", "soc", "linux"]
+        self.larp      = True
 ```
 
 - 🎓 Studying **Information Technology** full-time at the **University of Technology Sydney (UTS)**
