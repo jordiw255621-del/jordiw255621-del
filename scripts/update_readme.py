@@ -3,7 +3,7 @@ import datetime, pathlib, re
 from zoneinfo import ZoneInfo
 
 now = datetime.datetime.now(ZoneInfo("Australia/Sydney"))
-stamp = now.strftime("<b>%A, %-d %B %Y &nbsp;·&nbsp; %I:%M %p · Sydney time</sub>")
+stamp = now.strftime("<b>%A, %-d %B %Y &nbsp;·&nbsp; %I:%M %p · Sydney time</b>")
 
 readme = pathlib.Path("README.md")
 text = readme.read_text(encoding="utf-8")

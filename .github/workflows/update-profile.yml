@@ -1,0 +1,57 @@
+name: Update Profile (time + calendar)
+
+on:
+  # Primary trigger: fired by an external scheduler via the GitHub API.
+  # This path is delivered instantly, unlike `schedule`.
+  repository_dispatch:
+    types: [refresh]
+  workflow_dispatch:
+  push:
+    branches: [main]
+  # Fallback only. GitHub throttles this hard; do not rely on it.
+  schedule:
+    - cron: "*/15 * * * *"
+
+# Never let two refreshes fight over README.md.
+concurrency:
+  group: update-profile
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install calendar deps
+        run: pip install --quiet requests icalendar recurring-ical-events
+
+      - name: Update Sydney time
+        run: python scripts/update_readme.py
+
+      # If the ICS feed is slow or down, still commit the fresh clock.
+      - name: Update calendar activity
+        continue-on-error: true
+        run: python scripts/calendar_activity.py
+        env:
+          CAL_ICS_URL: ${{ secrets.CAL_ICS_URL }}
+
+      - name: Commit if changed
+        run: |
+          git config user.name "Jordan"
+          git config user.email "245690421+jordiw255621-del@users.noreply.github.com"
+          git add README.md
+          if git diff --quiet --cached; then echo "no change"; exit 0; fi
+          git commit -m "chore: refresh profile"
+          # Retry the push in case a concurrent run landed first.
+          for i in 1 2 3; do
+            git pull --rebase --autostash origin main && git push && exit 0
+            sleep 3
+          done
+          exit 1
