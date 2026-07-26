@@ -14,7 +14,7 @@
 
 <p align="center">
   <!--START_SECTION:time-->
-  <b>Sunday, 26 July 2026 &nbsp;·&nbsp; 02:33 PM · Sydney time</sub>
+  <b>Sunday, 26 July 2026 &nbsp;·&nbsp; 02:40 PM · Sydney time</b>
   <!--END_SECTION:time-->
 </p>
 
@@ -30,7 +30,7 @@
 - 5:00pm–7:00pm · 🏋️ **GYM**
 - 5:30pm–7:00pm · 📌 **CHURCH**
 
-<sub>🔄 Updated 12:33 PM Sydney · via Google Calendar</sub>
+<sub>🔄 Updated 02:40 PM Sydney · via Google Calendar</sub>
 <!--END_SECTION:calendar-->
 
 <!-- animated rainbow divider -->
