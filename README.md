@@ -57,7 +57,6 @@ class Jordan:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jordiw255621-del&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordiw255621-del&layout=compact&hide_border=true&theme=tokyonight" />
 </p>
 
