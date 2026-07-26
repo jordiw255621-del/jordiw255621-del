@@ -47,10 +47,7 @@ class Jordan:
         self.languages   = ["Java", "Python", "HTML"]
         self.focus       = ["cloud infra", "soc", "linux"]
         self.larp        = True
-```
 
-- 🎓 Studying **Information Technology** full-time at the **University of Technology Sydney (UTS)**
-- 💼 Working full-time on the **IT team at SocialBoothAU** *(since July 2026)*
 
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
