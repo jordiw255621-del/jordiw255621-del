@@ -56,7 +56,7 @@ class Jordan:
 
 ## 📊 GitHub Stats
 
-</p>
+<br>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jordiw255621-del&hide_border=true&theme=tokyonight" />
 </p>
