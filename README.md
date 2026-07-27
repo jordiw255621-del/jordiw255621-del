@@ -14,7 +14,7 @@
 
 <p align="center">
   <!--START_SECTION:time-->
-  <b>Monday, 27 July 2026 &nbsp;·&nbsp; 10:11 PM · Sydney time</b>
+  <b>Tuesday, 28 July 2026 &nbsp;·&nbsp; 01:11 AM · Sydney time</b>
   <!--END_SECTION:time-->
 </p>
 
@@ -24,12 +24,12 @@
 ## 📅 What I'm Up To
 
 <!--START_SECTION:calendar-->
-### 📅 Today · Monday 27 July (Sydney)
+### 📅 Today · Tuesday 28 July (Sydney)
 
-- 10:00am–3:30pm · 🎓 **UNI**
-- 4:00pm–10:00pm · 💼 **WORK**
+- 9:00am–5:00pm · 💼 **WORK**
+- 4:00pm–5:00pm · 📌 **DANIEL AWARD PRESENTATION**
 
-<sub>🔄 Updated 10:11 PM Sydney · via Google Calendar</sub>
+<sub>🔄 Updated 01:11 AM Sydney · via Google Calendar</sub>
 <!--END_SECTION:calendar-->
 
 <!-- animated rainbow divider -->
