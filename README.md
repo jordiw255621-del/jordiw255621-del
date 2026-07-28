@@ -14,7 +14,7 @@
 
 <p align="center">
   <!--START_SECTION:time-->
-  <b>Wednesday, 29 July 2026 &nbsp;·&nbsp; 08:31 AM · Sydney time</b>
+  <b>Wednesday, 29 July 2026 &nbsp;·&nbsp; 09:37 AM · Sydney time</b>
   <!--END_SECTION:time-->
 </p>
 
@@ -26,10 +26,10 @@
 <!--START_SECTION:calendar-->
 ### 📅 Today · Wednesday 29 July (Sydney)
 
-- 9:00am–4:00pm · 🎓 **UNI**
+- 9:00am–4:00pm · 🟢 **UNI**  ← now
 - 4:30pm–10:00pm · 💼 **WORK**
 
-<sub>🔄 Updated 08:31 AM Sydney · via Google Calendar</sub>
+<sub>🔄 Updated 09:37 AM Sydney · via Google Calendar</sub>
 <!--END_SECTION:calendar-->
 
 <!-- animated rainbow divider -->
