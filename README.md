@@ -14,7 +14,7 @@
 
 <p align="center">
   <!--START_SECTION:time-->
-  <b>Tuesday, 28 July 2026 &nbsp;·&nbsp; 07:45 PM · Sydney time</b>
+  <b>Tuesday, 28 July 2026 &nbsp;·&nbsp; 09:50 PM · Sydney time</b>
   <!--END_SECTION:time-->
 </p>
 
@@ -29,7 +29,7 @@
 - 9:00am–5:00pm · 💼 **WORK**
 - 4:00pm–5:00pm · 📌 **DANIEL AWARD PRESENTATION**
 
-<sub>🔄 Updated 07:45 PM Sydney · via Google Calendar</sub>
+<sub>🔄 Updated 09:50 PM Sydney · via Google Calendar</sub>
 <!--END_SECTION:calendar-->
 
 <!-- animated rainbow divider -->
