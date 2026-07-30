@@ -14,7 +14,7 @@
 
 <p align="center">
   <!--START_SECTION:time-->
-  <b>Thursday, 30 July 2026 &nbsp;·&nbsp; 05:10 PM · Sydney time</b>
+  <b>Thursday, 30 July 2026 &nbsp;·&nbsp; 07:39 PM · Sydney time</b>
   <!--END_SECTION:time-->
 </p>
 
@@ -26,10 +26,10 @@
 <!--START_SECTION:calendar-->
 ### 📅 Today · Thursday 30 July (Sydney)
 
-- 10:00am–6:00pm · 🟢 **WORK**  ← now
+- 10:00am–6:00pm · 💼 **WORK**
 - 6:00pm–7:00pm · 📌 **VBALL**
 
-<sub>🔄 Updated 05:10 PM Sydney · via Google Calendar</sub>
+<sub>🔄 Updated 07:39 PM Sydney · via Google Calendar</sub>
 <!--END_SECTION:calendar-->
 
 <!-- animated rainbow divider -->
