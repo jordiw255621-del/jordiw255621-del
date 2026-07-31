@@ -14,7 +14,7 @@
 
 <p align="center">
   <!--START_SECTION:time-->
-  <b>Friday, 31 July 2026 &nbsp;·&nbsp; 10:16 PM · Sydney time</b>
+  <b>Saturday, 1 August 2026 &nbsp;·&nbsp; 12:44 AM · Sydney time</b>
   <!--END_SECTION:time-->
 </p>
 
@@ -24,12 +24,12 @@
 ## 📅 What I'm Up To
 
 <!--START_SECTION:calendar-->
-### 📅 Today · Friday 31 July (Sydney)
+### 📅 Today · Saturday 1 August (Sydney)
 
-- 8:00am–5:00pm · 💼 **WORK**
-- 5:00pm–10:00pm · 🧗 **BOULDERING**
+- 12:00pm–1:00pm · 📌 **JHON**
+- 6:30pm–7:30pm · 📌 **LOOKOUT W CALVIN KEVIN**
 
-<sub>🔄 Updated 10:16 PM Sydney · via Google Calendar</sub>
+<sub>🔄 Updated 12:44 AM Sydney · via Google Calendar</sub>
 <!--END_SECTION:calendar-->
 
 <!-- animated rainbow divider -->
