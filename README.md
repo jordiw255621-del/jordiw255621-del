@@ -14,7 +14,7 @@
 
 <p align="center">
   <!--START_SECTION:time-->
-  <b>Friday, 31 July 2026 &nbsp;·&nbsp; 02:36 PM · Sydney time</b>
+  <b>Friday, 31 July 2026 &nbsp;·&nbsp; 05:32 PM · Sydney time</b>
   <!--END_SECTION:time-->
 </p>
 
@@ -26,10 +26,10 @@
 <!--START_SECTION:calendar-->
 ### 📅 Today · Friday 31 July (Sydney)
 
-- 8:00am–5:00pm · 🟢 **WORK**  ← now
-- 5:00pm–10:00pm · 🧗 **BOULDERING**
+- 8:00am–5:00pm · 💼 **WORK**
+- 5:00pm–10:00pm · 🟢 **BOULDERING**  ← now
 
-<sub>🔄 Updated 02:36 PM Sydney · via Google Calendar</sub>
+<sub>🔄 Updated 05:32 PM Sydney · via Google Calendar</sub>
 <!--END_SECTION:calendar-->
 
 <!-- animated rainbow divider -->
