@@ -14,7 +14,7 @@
 
 <p align="center">
   <!--START_SECTION:time-->
-  <b>Saturday, 1 August 2026 &nbsp;·&nbsp; 10:11 PM · Sydney time</b>
+  <b>Saturday, 1 August 2026 &nbsp;·&nbsp; 11:51 PM · Sydney time</b>
   <!--END_SECTION:time-->
 </p>
 
@@ -29,7 +29,7 @@
 - 12:00pm–1:00pm · 📌 **JHON**
 - 6:30pm–7:30pm · 📌 **LOOKOUT W CALVIN KEVIN**
 
-<sub>🔄 Updated 10:11 PM Sydney · via Google Calendar</sub>
+<sub>🔄 Updated 11:51 PM Sydney · via Google Calendar</sub>
 <!--END_SECTION:calendar-->
 
 <!-- animated rainbow divider -->
