@@ -14,7 +14,7 @@
 
 <p align="center">
   <!--START_SECTION:time-->
-  <b>Saturday, 1 August 2026 &nbsp;·&nbsp; 11:51 PM · Sydney time</b>
+  <b>Sunday, 2 August 2026 &nbsp;·&nbsp; 12:51 AM · Sydney time</b>
   <!--END_SECTION:time-->
 </p>
 
@@ -24,12 +24,13 @@
 ## 📅 What I'm Up To
 
 <!--START_SECTION:calendar-->
-### 📅 Today · Saturday 1 August (Sydney)
+### 📅 Today · Sunday 2 August (Sydney)
 
-- 12:00pm–1:00pm · 📌 **JHON**
-- 6:30pm–7:30pm · 📌 **LOOKOUT W CALVIN KEVIN**
+- **All day** · 📌 **PROG PROJ A**
+- 9:30am–5:00pm · 💼 **WORKK**
+- 5:30pm–7:00pm · 📌 **CHURCH**
 
-<sub>🔄 Updated 11:51 PM Sydney · via Google Calendar</sub>
+<sub>🔄 Updated 12:51 AM Sydney · via Google Calendar</sub>
 <!--END_SECTION:calendar-->
 
 <!-- animated rainbow divider -->
