@@ -14,7 +14,7 @@
 
 <p align="center">
   <!--START_SECTION:time-->
-  <b>Sunday, 2 August 2026 &nbsp;·&nbsp; 10:09 AM · Sydney time</b>
+  <b>Sunday, 2 August 2026 &nbsp;·&nbsp; 01:49 PM · Sydney time</b>
   <!--END_SECTION:time-->
 </p>
 
@@ -30,7 +30,7 @@
 - 9:30am–5:00pm · 🟢 **WORKK**  ← now
 - 5:30pm–7:00pm · 📌 **CHURCH**
 
-<sub>🔄 Updated 10:09 AM Sydney · via Google Calendar</sub>
+<sub>🔄 Updated 01:49 PM Sydney · via Google Calendar</sub>
 <!--END_SECTION:calendar-->
 
 <!-- animated rainbow divider -->
