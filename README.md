@@ -14,7 +14,7 @@
 
 <p align="center">
   <!--START_SECTION:time-->
-  <b>Monday, 3 August 2026 &nbsp;·&nbsp; 11:13 AM · Sydney time</b>
+  <b>Monday, 3 August 2026 &nbsp;·&nbsp; 02:47 PM · Sydney time</b>
   <!--END_SECTION:time-->
 </p>
 
@@ -29,7 +29,7 @@
 - 10:00am–3:30pm · 🟢 **UNI**  ← now
 - 4:00pm–10:00pm · 💼 **WORK**
 
-<sub>🔄 Updated 11:13 AM Sydney · via Google Calendar</sub>
+<sub>🔄 Updated 02:47 PM Sydney · via Google Calendar</sub>
 <!--END_SECTION:calendar-->
 
 <!-- animated rainbow divider -->
