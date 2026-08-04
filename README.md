@@ -14,7 +14,7 @@
 
 <p align="center">
   <!--START_SECTION:time-->
-  <b>Tuesday, 4 August 2026 &nbsp;·&nbsp; 10:16 PM · Sydney time</b>
+  <b>Wednesday, 5 August 2026 &nbsp;·&nbsp; 12:57 AM · Sydney time</b>
   <!--END_SECTION:time-->
 </p>
 
@@ -24,11 +24,12 @@
 ## 📅 What I'm Up To
 
 <!--START_SECTION:calendar-->
-### 📅 Today · Tuesday 4 August (Sydney)
+### 📅 Today · Wednesday 5 August (Sydney)
 
-- 2:00pm–10:00pm · 💼 **WORK**
+- 9:00am–4:00pm · 🎓 **UNI**
+- 4:30pm–10:00pm · 💼 **WORK**
 
-<sub>🔄 Updated 10:16 PM Sydney · via Google Calendar</sub>
+<sub>🔄 Updated 12:57 AM Sydney · via Google Calendar</sub>
 <!--END_SECTION:calendar-->
 
 <!-- animated rainbow divider -->
