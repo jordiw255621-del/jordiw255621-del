@@ -14,7 +14,7 @@
 
 <p align="center">
   <!--START_SECTION:time-->
-  <b>Tuesday, 4 August 2026 &nbsp;·&nbsp; 11:27 AM · Sydney time</b>
+  <b>Tuesday, 4 August 2026 &nbsp;·&nbsp; 02:40 PM · Sydney time</b>
   <!--END_SECTION:time-->
 </p>
 
@@ -26,9 +26,9 @@
 <!--START_SECTION:calendar-->
 ### 📅 Today · Tuesday 4 August (Sydney)
 
-- 2:00pm–10:00pm · 💼 **WORK**
+- 2:00pm–10:00pm · 🟢 **WORK**  ← now
 
-<sub>🔄 Updated 11:27 AM Sydney · via Google Calendar</sub>
+<sub>🔄 Updated 02:40 PM Sydney · via Google Calendar</sub>
 <!--END_SECTION:calendar-->
 
 <!-- animated rainbow divider -->
