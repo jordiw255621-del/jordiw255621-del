@@ -14,7 +14,7 @@
 
 <p align="center">
   <!--START_SECTION:time-->
-  <b>Wednesday, 5 August 2026 &nbsp;·&nbsp; 09:50 PM · Sydney time</b>
+  <b>Wednesday, 5 August 2026 &nbsp;·&nbsp; 11:42 PM · Sydney time</b>
   <!--END_SECTION:time-->
 </p>
 
@@ -27,9 +27,9 @@
 ### 📅 Today · Wednesday 5 August (Sydney)
 
 - 9:00am–4:00pm · 🎓 **UNI**
-- 4:30pm–10:00pm · 🟢 **WORK**  ← now
+- 4:30pm–10:00pm · 💼 **WORK**
 
-<sub>🔄 Updated 09:50 PM Sydney · via Google Calendar</sub>
+<sub>🔄 Updated 11:42 PM Sydney · via Google Calendar</sub>
 <!--END_SECTION:calendar-->
 
 <!-- animated rainbow divider -->
