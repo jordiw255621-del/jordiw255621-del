@@ -14,7 +14,7 @@
 
 <p align="center">
   <!--START_SECTION:time-->
-  <b>Thursday, 6 August 2026 &nbsp;·&nbsp; 08:05 PM · Sydney time</b>
+  <b>Thursday, 6 August 2026 &nbsp;·&nbsp; 10:16 PM · Sydney time</b>
   <!--END_SECTION:time-->
 </p>
 
@@ -28,7 +28,7 @@
 
 - 5:00pm–6:00pm · 📌 **GABS**
 
-<sub>🔄 Updated 08:05 PM Sydney · via Google Calendar</sub>
+<sub>🔄 Updated 10:16 PM Sydney · via Google Calendar</sub>
 <!--END_SECTION:calendar-->
 
 <!-- animated rainbow divider -->
