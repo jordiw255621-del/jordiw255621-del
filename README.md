@@ -14,7 +14,7 @@
 
 <p align="center">
   <!--START_SECTION:time-->
-  <b>Friday, 7 August 2026 &nbsp;·&nbsp; 09:31 PM · Sydney time</b>
+  <b>Friday, 7 August 2026 &nbsp;·&nbsp; 11:47 PM · Sydney time</b>
   <!--END_SECTION:time-->
 </p>
 
@@ -27,9 +27,9 @@
 ### 📅 Today · Friday 7 August (Sydney)
 
 - 9:00am–5:00pm · 💼 **WORK**
-- 11:45pm–11:50pm · 📌 **TEXT KEVIN A HAPPY BDAY**
+- 11:45pm–11:50pm · 🟢 **TEXT KEVIN A HAPPY BDAY**  ← now
 
-<sub>🔄 Updated 09:31 PM Sydney · via Google Calendar</sub>
+<sub>🔄 Updated 11:47 PM Sydney · via Google Calendar</sub>
 <!--END_SECTION:calendar-->
 
 <!-- animated rainbow divider -->
