@@ -14,7 +14,7 @@
 
 <p align="center">
   <!--START_SECTION:time-->
-  <b>Friday, 7 August 2026 &nbsp;·&nbsp; 11:47 PM · Sydney time</b>
+  <b>Saturday, 8 August 2026 &nbsp;·&nbsp; 12:44 AM · Sydney time</b>
   <!--END_SECTION:time-->
 </p>
 
@@ -24,12 +24,12 @@
 ## 📅 What I'm Up To
 
 <!--START_SECTION:calendar-->
-### 📅 Today · Friday 7 August (Sydney)
+### 📅 Today · Saturday 8 August (Sydney)
 
-- 9:00am–5:00pm · 💼 **WORK**
-- 11:45pm–11:50pm · 🟢 **TEXT KEVIN A HAPPY BDAY**  ← now
+- 3:00pm–6:00pm · 💼 **WORK ON FIRST DRAFT DIAGRAMS + INTRO**
+- 6:00pm–8:00pm · 📌 **POKER NIGHT AT JAMES KU'S HOUSE**
 
-<sub>🔄 Updated 11:47 PM Sydney · via Google Calendar</sub>
+<sub>🔄 Updated 12:44 AM Sydney · via Google Calendar</sub>
 <!--END_SECTION:calendar-->
 
 <!-- animated rainbow divider -->
