@@ -14,7 +14,7 @@
 
 <p align="center">
   <!--START_SECTION:time-->
-  <b>Saturday, 8 August 2026 &nbsp;·&nbsp; 05:34 PM · Sydney time</b>
+  <b>Saturday, 8 August 2026 &nbsp;·&nbsp; 06:19 PM · Sydney time</b>
   <!--END_SECTION:time-->
 </p>
 
@@ -26,10 +26,10 @@
 <!--START_SECTION:calendar-->
 ### 📅 Today · Saturday 8 August (Sydney)
 
-- 3:00pm–6:00pm · 🟢 **WORK ON FIRST DRAFT DIAGRAMS + INTRO**  ← now
-- 6:00pm–8:00pm · 📌 **POKER NIGHT AT JAMES KU'S HOUSE**
+- 3:00pm–6:00pm · 💼 **WORK ON FIRST DRAFT DIAGRAMS + INTRO**
+- 6:00pm–8:00pm · 🟢 **POKER NIGHT AT JAMES KU'S HOUSE**  ← now
 
-<sub>🔄 Updated 05:34 PM Sydney · via Google Calendar</sub>
+<sub>🔄 Updated 06:19 PM Sydney · via Google Calendar</sub>
 <!--END_SECTION:calendar-->
 
 <!-- animated rainbow divider -->
