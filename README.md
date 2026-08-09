@@ -14,7 +14,7 @@
 
 <p align="center">
   <!--START_SECTION:time-->
-  <b>Sunday, 9 August 2026 &nbsp;·&nbsp; 08:15 PM · Sydney time</b>
+  <b>Sunday, 9 August 2026 &nbsp;·&nbsp; 08:59 PM · Sydney time</b>
   <!--END_SECTION:time-->
 </p>
 
@@ -29,7 +29,7 @@
 - 8:00am–2:00pm · 💼 **WORK FROM HOME**
 - 5:30pm–7:00pm · 📌 **CHURCH**
 
-<sub>🔄 Updated 08:15 PM Sydney · via Google Calendar</sub>
+<sub>🔄 Updated 08:59 PM Sydney · via Google Calendar</sub>
 <!--END_SECTION:calendar-->
 
 <!-- animated rainbow divider -->
