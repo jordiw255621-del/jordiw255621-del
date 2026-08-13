@@ -14,7 +14,7 @@
 
 <p align="center">
   <!--START_SECTION:time-->
-  <b>Friday, 14 August 2026 &nbsp;·&nbsp; 05:42 AM · Sydney time</b>
+  <b>Friday, 14 August 2026 &nbsp;·&nbsp; 06:20 AM · Sydney time</b>
   <!--END_SECTION:time-->
 </p>
 
@@ -29,7 +29,7 @@
 - 9:00am–5:00pm · 💼 **WORK**
 - 9:00pm–10:00pm · 📌 **JINU & CLYDE GOING MELBOURNE FOR GEARBOX**
 
-<sub>🔄 Updated 05:42 AM Sydney · via Google Calendar</sub>
+<sub>🔄 Updated 06:20 AM Sydney · via Google Calendar</sub>
 <!--END_SECTION:calendar-->
 
 <!-- animated rainbow divider -->
