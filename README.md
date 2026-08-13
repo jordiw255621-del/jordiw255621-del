@@ -14,7 +14,7 @@
 
 <p align="center">
   <!--START_SECTION:time-->
-  <b>Thursday, 13 August 2026 &nbsp;·&nbsp; 01:13 PM · Sydney time</b>
+  <b>Thursday, 13 August 2026 &nbsp;·&nbsp; 03:04 PM · Sydney time</b>
   <!--END_SECTION:time-->
 </p>
 
@@ -28,7 +28,7 @@
 
 _Nothing scheduled — probably grinding OSRS_ 🧢
 
-<sub>🔄 Updated 01:13 PM Sydney · via Google Calendar</sub>
+<sub>🔄 Updated 03:04 PM Sydney · via Google Calendar</sub>
 <!--END_SECTION:calendar-->
 
 <!-- animated rainbow divider -->
