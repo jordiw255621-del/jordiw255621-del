@@ -14,7 +14,7 @@
 
 <p align="center">
   <!--START_SECTION:time-->
-  <b>Saturday, 15 August 2026 &nbsp;·&nbsp; 02:20 PM · Sydney time</b>
+  <b>Saturday, 15 August 2026 &nbsp;·&nbsp; 02:53 PM · Sydney time</b>
   <!--END_SECTION:time-->
 </p>
 
@@ -29,7 +29,7 @@
 - 9:15am–5:00pm · 🟢 **WORK**  ← now
 - 6:00pm–1:00am · 💼 **WORK AFTER WORK**
 
-<sub>🔄 Updated 02:20 PM Sydney · via Google Calendar</sub>
+<sub>🔄 Updated 02:53 PM Sydney · via Google Calendar</sub>
 <!--END_SECTION:calendar-->
 
 <!-- animated rainbow divider -->
