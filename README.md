@@ -14,7 +14,7 @@
 
 <p align="center">
   <!--START_SECTION:time-->
-  <b>Saturday, 15 August 2026 &nbsp;·&nbsp; 11:57 PM · Sydney time</b>
+  <b>Sunday, 16 August 2026 &nbsp;·&nbsp; 12:17 AM · Sydney time</b>
   <!--END_SECTION:time-->
 </p>
 
@@ -24,12 +24,13 @@
 ## 📅 What I'm Up To
 
 <!--START_SECTION:calendar-->
-### 📅 Today · Saturday 15 August (Sydney)
+### 📅 Today · Sunday 16 August (Sydney)
 
-- 9:15am–5:00pm · 💼 **WORK**
 - 6:00pm–1:00am · 🟢 **WORK AFTER WORK**  ← now
+- 1:30pm–2:30pm · 📌 **SPIDERMAN WITH LOVELY BUM**
+- 7:00pm–8:00pm · 📌 **DINNER HAYLEY KEV HILLARY**
 
-<sub>🔄 Updated 11:57 PM Sydney · via Google Calendar</sub>
+<sub>🔄 Updated 12:17 AM Sydney · via Google Calendar</sub>
 <!--END_SECTION:calendar-->
 
 <!-- animated rainbow divider -->
