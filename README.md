@@ -14,7 +14,7 @@
 
 <p align="center">
   <!--START_SECTION:time-->
-  <b>Tuesday, 18 August 2026 &nbsp;·&nbsp; 09:43 AM · Sydney time</b>
+  <b>Tuesday, 18 August 2026 &nbsp;·&nbsp; 09:57 AM · Sydney time</b>
   <!--END_SECTION:time-->
 </p>
 
@@ -28,7 +28,7 @@
 
 - 2:00pm–10:00pm · 💼 **WORK**
 
-<sub>🔄 Updated 09:43 AM Sydney · via Google Calendar</sub>
+<sub>🔄 Updated 09:57 AM Sydney · via Google Calendar</sub>
 <!--END_SECTION:calendar-->
 
 <!-- animated rainbow divider -->
