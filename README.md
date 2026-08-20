@@ -14,7 +14,7 @@
 
 <p align="center">
   <!--START_SECTION:time-->
-  <b>Thursday, 20 August 2026 &nbsp;·&nbsp; 08:54 PM · Sydney time</b>
+  <b>Thursday, 20 August 2026 &nbsp;·&nbsp; 09:17 PM · Sydney time</b>
   <!--END_SECTION:time-->
 </p>
 
@@ -28,7 +28,7 @@
 
 - 12:00pm–3:30pm · 📌 **PRACTICE ON THURSDAY**
 
-<sub>🔄 Updated 08:54 PM Sydney · via Google Calendar</sub>
+<sub>🔄 Updated 09:17 PM Sydney · via Google Calendar</sub>
 <!--END_SECTION:calendar-->
 
 <!-- animated rainbow divider -->
