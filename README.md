@@ -14,7 +14,7 @@
 
 <p align="center">
   <!--START_SECTION:time-->
-  <b>Thursday, 20 August 2026 &nbsp;·&nbsp; 11:25 PM · Sydney time</b>
+  <b>Friday, 21 August 2026 &nbsp;·&nbsp; 12:06 AM · Sydney time</b>
   <!--END_SECTION:time-->
 </p>
 
@@ -24,11 +24,11 @@
 ## 📅 What I'm Up To
 
 <!--START_SECTION:calendar-->
-### 📅 Today · Thursday 20 August (Sydney)
+### 📅 Today · Friday 21 August (Sydney)
 
-- 12:00pm–3:30pm · 📌 **PRACTICE ON THURSDAY**
+- 6:00pm–1:00am · 💼 **WORK**
 
-<sub>🔄 Updated 11:25 PM Sydney · via Google Calendar</sub>
+<sub>🔄 Updated 12:06 AM Sydney · via Google Calendar</sub>
 <!--END_SECTION:calendar-->
 
 <!-- animated rainbow divider -->
