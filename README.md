@@ -14,7 +14,7 @@
 
 <p align="center">
   <!--START_SECTION:time-->
-  <b>Saturday, 22 August 2026 &nbsp;·&nbsp; 12:17 AM · Sydney time</b>
+  <b>Saturday, 22 August 2026 &nbsp;·&nbsp; 01:00 AM · Sydney time</b>
   <!--END_SECTION:time-->
 </p>
 
@@ -26,11 +26,11 @@
 <!--START_SECTION:calendar-->
 ### 📅 Today · Saturday 22 August (Sydney)
 
-- 6:00pm–1:00am · 🟢 **WORK**  ← now
+- 6:00pm–1:00am · 💼 **WORK**
 - **All day** · 📌 **kyle bday**
 - 6:00pm–1:00am · 💼 **WORK**
 
-<sub>🔄 Updated 12:17 AM Sydney · via Google Calendar</sub>
+<sub>🔄 Updated 01:00 AM Sydney · via Google Calendar</sub>
 <!--END_SECTION:calendar-->
 
 <!-- animated rainbow divider -->
