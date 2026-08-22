@@ -14,7 +14,7 @@
 
 <p align="center">
   <!--START_SECTION:time-->
-  <b>Sunday, 23 August 2026 &nbsp;·&nbsp; 12:59 AM · Sydney time</b>
+  <b>Sunday, 23 August 2026 &nbsp;·&nbsp; 01:20 AM · Sydney time</b>
   <!--END_SECTION:time-->
 </p>
 
@@ -26,9 +26,9 @@
 <!--START_SECTION:calendar-->
 ### 📅 Today · Sunday 23 August (Sydney)
 
-- 6:00pm–1:00am · 🟢 **WORK**  ← now
+- 6:00pm–1:00am · 💼 **WORK**
 
-<sub>🔄 Updated 12:59 AM Sydney · via Google Calendar</sub>
+<sub>🔄 Updated 01:20 AM Sydney · via Google Calendar</sub>
 <!--END_SECTION:calendar-->
 
 <!-- animated rainbow divider -->
