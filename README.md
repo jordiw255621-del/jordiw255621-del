@@ -14,7 +14,7 @@
 
 <p align="center">
   <!--START_SECTION:time-->
-  <b>Thursday, 27 August 2026 &nbsp;·&nbsp; 04:49 AM · Sydney time</b>
+  <b>Thursday, 27 August 2026 &nbsp;·&nbsp; 07:27 AM · Sydney time</b>
   <!--END_SECTION:time-->
 </p>
 
@@ -29,7 +29,7 @@
 - 12:45pm–1:45pm · 📌 **TAPO ROLLOUT @ CRUISEBAR**
 - 6:00pm–8:00pm · 📌 **TECH CONSULTING ROUND TABLE @ CB06.06.103**
 
-<sub>🔄 Updated 04:49 AM Sydney · via Google Calendar</sub>
+<sub>🔄 Updated 07:27 AM Sydney · via Google Calendar</sub>
 <!--END_SECTION:calendar-->
 
 <!-- animated rainbow divider -->
