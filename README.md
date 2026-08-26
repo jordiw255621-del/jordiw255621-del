@@ -14,7 +14,7 @@
 
 <p align="center">
   <!--START_SECTION:time-->
-  <b>Wednesday, 26 August 2026 &nbsp;·&nbsp; 11:39 PM · Sydney time</b>
+  <b>Thursday, 27 August 2026 &nbsp;·&nbsp; 12:24 AM · Sydney time</b>
   <!--END_SECTION:time-->
 </p>
 
@@ -24,13 +24,12 @@
 ## 📅 What I'm Up To
 
 <!--START_SECTION:calendar-->
-### 📅 Today · Wednesday 26 August (Sydney)
+### 📅 Today · Thursday 27 August (Sydney)
 
-- **All day** · 📌 **lucas bday**
-- 9:00am–4:00pm · 🎓 **UNI**
-- 4:30pm–10:00pm · 💼 **WORK**
+- 12:45pm–1:45pm · 📌 **TAPO ROLLOUT @ CRUISEBAR**
+- 6:00pm–8:00pm · 📌 **TECH CONSULTING ROUND TABLE @ CB06.06.103**
 
-<sub>🔄 Updated 11:39 PM Sydney · via Google Calendar</sub>
+<sub>🔄 Updated 12:24 AM Sydney · via Google Calendar</sub>
 <!--END_SECTION:calendar-->
 
 <!-- animated rainbow divider -->
