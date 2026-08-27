@@ -14,7 +14,7 @@
 
 <p align="center">
   <!--START_SECTION:time-->
-  <b>Thursday, 27 August 2026 &nbsp;·&nbsp; 08:51 PM · Sydney time</b>
+  <b>Friday, 28 August 2026 &nbsp;·&nbsp; 06:51 AM · Sydney time</b>
   <!--END_SECTION:time-->
 </p>
 
@@ -24,12 +24,12 @@
 ## 📅 What I'm Up To
 
 <!--START_SECTION:calendar-->
-### 📅 Today · Thursday 27 August (Sydney)
+### 📅 Today · Friday 28 August (Sydney)
 
-- 12:45pm–1:45pm · 📌 **TAPO ROLLOUT @ CRUISEBAR**
-- 6:00pm–8:00pm · 📌 **TECH CONSULTING ROUND TABLE @ CB06.06.103**
+- 9:00am–5:00pm · 💼 **WORK**
+- 6:00pm–10:00pm · 📌 **HANGOUT W HS GROUP @ EWOO**
 
-<sub>🔄 Updated 08:51 PM Sydney · via Google Calendar</sub>
+<sub>🔄 Updated 06:51 AM Sydney · via Google Calendar</sub>
 <!--END_SECTION:calendar-->
 
 <!-- animated rainbow divider -->
