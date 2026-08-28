@@ -14,7 +14,7 @@
 
 <p align="center">
   <!--START_SECTION:time-->
-  <b>Friday, 28 August 2026 &nbsp;·&nbsp; 03:01 PM · Sydney time</b>
+  <b>Saturday, 29 August 2026 &nbsp;·&nbsp; 03:25 AM · Sydney time</b>
   <!--END_SECTION:time-->
 </p>
 
@@ -24,12 +24,11 @@
 ## 📅 What I'm Up To
 
 <!--START_SECTION:calendar-->
-### 📅 Today · Friday 28 August (Sydney)
+### 📅 Today · Saturday 29 August (Sydney)
 
-- 9:00am–5:00pm · 🟢 **WORK**  ← now
-- 6:00pm–10:00pm · 📌 **HANGOUT W HS GROUP @ EWOO**
+_Nothing scheduled — probably grinding OSRS_ 🧢
 
-<sub>🔄 Updated 03:01 PM Sydney · via Google Calendar</sub>
+<sub>🔄 Updated 03:25 AM Sydney · via Google Calendar</sub>
 <!--END_SECTION:calendar-->
 
 <!-- animated rainbow divider -->
