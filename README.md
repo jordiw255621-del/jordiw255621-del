@@ -14,7 +14,7 @@
 
 <p align="center">
   <!--START_SECTION:time-->
-  <b>Friday, 28 August 2026 &nbsp;·&nbsp; 06:51 AM · Sydney time</b>
+  <b>Friday, 28 August 2026 &nbsp;·&nbsp; 03:01 PM · Sydney time</b>
   <!--END_SECTION:time-->
 </p>
 
@@ -26,10 +26,10 @@
 <!--START_SECTION:calendar-->
 ### 📅 Today · Friday 28 August (Sydney)
 
-- 9:00am–5:00pm · 💼 **WORK**
+- 9:00am–5:00pm · 🟢 **WORK**  ← now
 - 6:00pm–10:00pm · 📌 **HANGOUT W HS GROUP @ EWOO**
 
-<sub>🔄 Updated 06:51 AM Sydney · via Google Calendar</sub>
+<sub>🔄 Updated 03:01 PM Sydney · via Google Calendar</sub>
 <!--END_SECTION:calendar-->
 
 <!-- animated rainbow divider -->
