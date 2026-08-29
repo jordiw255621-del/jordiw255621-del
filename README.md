@@ -14,7 +14,7 @@
 
 <p align="center">
   <!--START_SECTION:time-->
-  <b>Saturday, 29 August 2026 &nbsp;·&nbsp; 11:28 PM · Sydney time</b>
+  <b>Sunday, 30 August 2026 &nbsp;·&nbsp; 03:18 AM · Sydney time</b>
   <!--END_SECTION:time-->
 </p>
 
@@ -24,11 +24,11 @@
 ## 📅 What I'm Up To
 
 <!--START_SECTION:calendar-->
-### 📅 Today · Saturday 29 August (Sydney)
+### 📅 Today · Sunday 30 August (Sydney)
 
 _Nothing scheduled — probably grinding OSRS_ 🧢
 
-<sub>🔄 Updated 11:28 PM Sydney · via Google Calendar</sub>
+<sub>🔄 Updated 03:18 AM Sydney · via Google Calendar</sub>
 <!--END_SECTION:calendar-->
 
 <!-- animated rainbow divider -->
