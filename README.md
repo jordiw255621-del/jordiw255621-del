@@ -14,7 +14,7 @@
 
 <p align="center">
   <!--START_SECTION:time-->
-  <b>Thursday, 3 September 2026 &nbsp;·&nbsp; 07:44 PM · Sydney time</b>
+  <b>Thursday, 3 September 2026 &nbsp;·&nbsp; 11:53 PM · Sydney time</b>
   <!--END_SECTION:time-->
 </p>
 
@@ -29,7 +29,7 @@
 - 11:00am–12:00pm · 📌 **HONDA JIZZ GETTING FIXED**
 - 12:00pm–1:00pm · 📌 **HONDA JIZZ TYRES REPLACEMENT**
 
-<sub>🔄 Updated 07:44 PM Sydney · via Google Calendar</sub>
+<sub>🔄 Updated 11:53 PM Sydney · via Google Calendar</sub>
 <!--END_SECTION:calendar-->
 
 <!-- animated rainbow divider -->
