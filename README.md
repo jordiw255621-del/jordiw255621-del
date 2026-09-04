@@ -14,7 +14,7 @@
 
 <p align="center">
   <!--START_SECTION:time-->
-  <b>Saturday, 5 September 2026 &nbsp;·&nbsp; 05:16 AM · Sydney time</b>
+  <b>Saturday, 5 September 2026 &nbsp;·&nbsp; 07:36 AM · Sydney time</b>
   <!--END_SECTION:time-->
 </p>
 
@@ -29,7 +29,7 @@
 - 6:00pm–1:00am · 💼 **WORK**
 - 10:00am–10:30am · 🏋️ **GYM WITH SOJEAN (GRAB TEA)**
 
-<sub>🔄 Updated 05:16 AM Sydney · via Google Calendar</sub>
+<sub>🔄 Updated 07:36 AM Sydney · via Google Calendar</sub>
 <!--END_SECTION:calendar-->
 
 <!-- animated rainbow divider -->
