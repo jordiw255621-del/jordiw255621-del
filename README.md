@@ -14,7 +14,7 @@
 
 <p align="center">
   <!--START_SECTION:time-->
-  <b>Saturday, 5 September 2026 &nbsp;·&nbsp; 10:52 PM · Sydney time</b>
+  <b>Sunday, 6 September 2026 &nbsp;·&nbsp; 01:41 AM · Sydney time</b>
   <!--END_SECTION:time-->
 </p>
 
@@ -24,12 +24,11 @@
 ## 📅 What I'm Up To
 
 <!--START_SECTION:calendar-->
-### 📅 Today · Saturday 5 September (Sydney)
+### 📅 Today · Sunday 6 September (Sydney)
 
-- 6:00pm–1:00am · 💼 **WORK**
-- 10:00am–10:30am · 🏋️ **GYM WITH SOJEAN (GRAB TEA)**
+- **All day** · 🏋️ **SNOOPY RUN DAY**
 
-<sub>🔄 Updated 10:52 PM Sydney · via Google Calendar</sub>
+<sub>🔄 Updated 01:41 AM Sydney · via Google Calendar</sub>
 <!--END_SECTION:calendar-->
 
 <!-- animated rainbow divider -->
