@@ -14,7 +14,7 @@
 
 <p align="center">
   <!--START_SECTION:time-->
-  <b>Sunday, 6 September 2026 &nbsp;·&nbsp; 01:41 AM · Sydney time</b>
+  <b>Sunday, 6 September 2026 &nbsp;·&nbsp; 03:38 AM · Sydney time</b>
   <!--END_SECTION:time-->
 </p>
 
@@ -28,7 +28,7 @@
 
 - **All day** · 🏋️ **SNOOPY RUN DAY**
 
-<sub>🔄 Updated 01:41 AM Sydney · via Google Calendar</sub>
+<sub>🔄 Updated 03:38 AM Sydney · via Google Calendar</sub>
 <!--END_SECTION:calendar-->
 
 <!-- animated rainbow divider -->
