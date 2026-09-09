@@ -14,7 +14,7 @@
 
 <p align="center">
   <!--START_SECTION:time-->
-  <b>Wednesday, 9 September 2026 &nbsp;·&nbsp; 07:56 PM · Sydney time</b>
+  <b>Thursday, 10 September 2026 &nbsp;·&nbsp; 12:04 AM · Sydney time</b>
   <!--END_SECTION:time-->
 </p>
 
@@ -24,11 +24,11 @@
 ## 📅 What I'm Up To
 
 <!--START_SECTION:calendar-->
-### 📅 Today · Wednesday 9 September (Sydney)
+### 📅 Today · Thursday 10 September (Sydney)
 
-- 2:00pm–10:00pm · 🟢 **WORK**  ← now
+- **All day** · 📌 **TYRES CHANGE ON THE JIZZ**
 
-<sub>🔄 Updated 07:56 PM Sydney · via Google Calendar</sub>
+<sub>🔄 Updated 12:04 AM Sydney · via Google Calendar</sub>
 <!--END_SECTION:calendar-->
 
 <!-- animated rainbow divider -->
