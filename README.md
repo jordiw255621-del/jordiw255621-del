@@ -14,7 +14,7 @@
 
 <p align="center">
   <!--START_SECTION:time-->
-  <b>Friday, 11 September 2026 &nbsp;·&nbsp; 08:04 AM · Sydney time</b>
+  <b>Friday, 11 September 2026 &nbsp;·&nbsp; 10:07 AM · Sydney time</b>
   <!--END_SECTION:time-->
 </p>
 
@@ -26,9 +26,9 @@
 <!--START_SECTION:calendar-->
 ### 📅 Today · Friday 11 September (Sydney)
 
-- 9:00am–5:00pm · 💼 **WORK**
+- 9:00am–5:00pm · 🟢 **WORK**  ← now
 
-<sub>🔄 Updated 08:04 AM Sydney · via Google Calendar</sub>
+<sub>🔄 Updated 10:07 AM Sydney · via Google Calendar</sub>
 <!--END_SECTION:calendar-->
 
 <!-- animated rainbow divider -->
