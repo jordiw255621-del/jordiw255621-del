@@ -14,7 +14,7 @@
 
 <p align="center">
   <!--START_SECTION:time-->
-  <b>Sunday, 13 September 2026 &nbsp;·&nbsp; 07:30 AM · Sydney time</b>
+  <b>Sunday, 13 September 2026 &nbsp;·&nbsp; 09:20 AM · Sydney time</b>
   <!--END_SECTION:time-->
 </p>
 
@@ -28,7 +28,7 @@
 
 - 1:00pm–9:00pm · 💼 **WORK**
 
-<sub>🔄 Updated 07:30 AM Sydney · via Google Calendar</sub>
+<sub>🔄 Updated 09:20 AM Sydney · via Google Calendar</sub>
 <!--END_SECTION:calendar-->
 
 <!-- animated rainbow divider -->
