@@ -14,7 +14,7 @@
 
 <p align="center">
   <!--START_SECTION:time-->
-  <b>Saturday, 12 September 2026 &nbsp;·&nbsp; 09:07 PM · Sydney time</b>
+  <b>Sunday, 13 September 2026 &nbsp;·&nbsp; 12:04 AM · Sydney time</b>
   <!--END_SECTION:time-->
 </p>
 
@@ -24,11 +24,11 @@
 ## 📅 What I'm Up To
 
 <!--START_SECTION:calendar-->
-### 📅 Today · Saturday 12 September (Sydney)
+### 📅 Today · Sunday 13 September (Sydney)
 
-_Nothing scheduled — probably grinding OSRS_ 🧢
+- 1:00pm–9:00pm · 💼 **WORK**
 
-<sub>🔄 Updated 09:07 PM Sydney · via Google Calendar</sub>
+<sub>🔄 Updated 12:04 AM Sydney · via Google Calendar</sub>
 <!--END_SECTION:calendar-->
 
 <!-- animated rainbow divider -->
