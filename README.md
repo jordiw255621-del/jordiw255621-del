@@ -14,7 +14,7 @@
 
 <p align="center">
   <!--START_SECTION:time-->
-  <b>Tuesday, 15 September 2026 &nbsp;·&nbsp; 06:34 AM · Sydney time</b>
+  <b>Tuesday, 15 September 2026 &nbsp;·&nbsp; 09:27 AM · Sydney time</b>
   <!--END_SECTION:time-->
 </p>
 
@@ -26,9 +26,9 @@
 <!--START_SECTION:calendar-->
 ### 📅 Today · Tuesday 15 September (Sydney)
 
-- 10:30am–11:30am · 🧗 **BOULDERING W HILLARY 😍**
+- 6:00pm–7:00pm · 🧗 **BOULDERING W HILLARY 😍**
 
-<sub>🔄 Updated 06:34 AM Sydney · via Google Calendar</sub>
+<sub>🔄 Updated 09:27 AM Sydney · via Google Calendar</sub>
 <!--END_SECTION:calendar-->
 
 <!-- animated rainbow divider -->
