@@ -14,7 +14,7 @@
 
 <p align="center">
   <!--START_SECTION:time-->
-  <b>Tuesday, 15 September 2026 &nbsp;·&nbsp; 10:07 PM · Sydney time</b>
+  <b>Wednesday, 16 September 2026 &nbsp;·&nbsp; 02:54 AM · Sydney time</b>
   <!--END_SECTION:time-->
 </p>
 
@@ -24,11 +24,11 @@
 ## 📅 What I'm Up To
 
 <!--START_SECTION:calendar-->
-### 📅 Today · Tuesday 15 September (Sydney)
+### 📅 Today · Wednesday 16 September (Sydney)
 
-- 6:00pm–7:00pm · 🧗 **BOULDERING W HILLARY 😍**
+- 2:00pm–10:00pm · 💼 **WORK**
 
-<sub>🔄 Updated 10:07 PM Sydney · via Google Calendar</sub>
+<sub>🔄 Updated 02:54 AM Sydney · via Google Calendar</sub>
 <!--END_SECTION:calendar-->
 
 <!-- animated rainbow divider -->
