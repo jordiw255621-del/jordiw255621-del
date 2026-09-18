@@ -14,7 +14,7 @@
 
 <p align="center">
   <!--START_SECTION:time-->
-  <b>Saturday, 19 September 2026 &nbsp;·&nbsp; 12:28 AM · Sydney time</b>
+  <b>Saturday, 19 September 2026 &nbsp;·&nbsp; 03:46 AM · Sydney time</b>
   <!--END_SECTION:time-->
 </p>
 
@@ -28,7 +28,7 @@
 
 - **All day** · 📌 **Data Innovation Summit ANZ**
 
-<sub>🔄 Updated 12:28 AM Sydney · via Google Calendar</sub>
+<sub>🔄 Updated 03:46 AM Sydney · via Google Calendar</sub>
 <!--END_SECTION:calendar-->
 
 <!-- animated rainbow divider -->
