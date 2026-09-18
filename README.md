@@ -14,7 +14,7 @@
 
 <p align="center">
   <!--START_SECTION:time-->
-  <b>Friday, 18 September 2026 &nbsp;·&nbsp; 08:02 PM · Sydney time</b>
+  <b>Saturday, 19 September 2026 &nbsp;·&nbsp; 12:28 AM · Sydney time</b>
   <!--END_SECTION:time-->
 </p>
 
@@ -24,11 +24,11 @@
 ## 📅 What I'm Up To
 
 <!--START_SECTION:calendar-->
-### 📅 Today · Friday 18 September (Sydney)
+### 📅 Today · Saturday 19 September (Sydney)
 
-_Nothing scheduled — probably grinding OSRS_ 🧢
+- **All day** · 📌 **Data Innovation Summit ANZ**
 
-<sub>🔄 Updated 08:02 PM Sydney · via Google Calendar</sub>
+<sub>🔄 Updated 12:28 AM Sydney · via Google Calendar</sub>
 <!--END_SECTION:calendar-->
 
 <!-- animated rainbow divider -->
