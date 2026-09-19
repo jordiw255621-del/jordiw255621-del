@@ -14,7 +14,7 @@
 
 <p align="center">
   <!--START_SECTION:time-->
-  <b>Sunday, 20 September 2026 &nbsp;·&nbsp; 04:53 AM · Sydney time</b>
+  <b>Sunday, 20 September 2026 &nbsp;·&nbsp; 07:10 AM · Sydney time</b>
   <!--END_SECTION:time-->
 </p>
 
@@ -29,7 +29,7 @@
 - 9:30am–11:30am · 📌 **WORLD CLEANUP DAY (VOLUNTEERING EVENT)**
 - 9:00pm–10:00pm · 📌 **DINNER W BEBRIEFERS**
 
-<sub>🔄 Updated 04:53 AM Sydney · via Google Calendar</sub>
+<sub>🔄 Updated 07:10 AM Sydney · via Google Calendar</sub>
 <!--END_SECTION:calendar-->
 
 <!-- animated rainbow divider -->
