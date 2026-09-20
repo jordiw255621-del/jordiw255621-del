@@ -14,7 +14,7 @@
 
 <p align="center">
   <!--START_SECTION:time-->
-  <b>Sunday, 20 September 2026 &nbsp;·&nbsp; 08:05 PM · Sydney time</b>
+  <b>Monday, 21 September 2026 &nbsp;·&nbsp; 12:12 AM · Sydney time</b>
   <!--END_SECTION:time-->
 </p>
 
@@ -24,12 +24,11 @@
 ## 📅 What I'm Up To
 
 <!--START_SECTION:calendar-->
-### 📅 Today · Sunday 20 September (Sydney)
+### 📅 Today · Monday 21 September (Sydney)
 
-- 9:30am–11:30am · 📌 **WORLD CLEANUP DAY (VOLUNTEERING EVENT)**
-- 9:00pm–10:00pm · 📌 **DINNER W BEBRIEFERS**
+_Nothing scheduled — probably grinding OSRS_ 🧢
 
-<sub>🔄 Updated 08:05 PM Sydney · via Google Calendar</sub>
+<sub>🔄 Updated 12:12 AM Sydney · via Google Calendar</sub>
 <!--END_SECTION:calendar-->
 
 <!-- animated rainbow divider -->
