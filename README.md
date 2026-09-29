@@ -14,7 +14,7 @@
 
 <p align="center">
   <!--START_SECTION:time-->
-  <b>Tuesday, 29 September 2026 &nbsp;·&nbsp; 11:14 AM · Sydney time</b>
+  <b>Tuesday, 29 September 2026 &nbsp;·&nbsp; 04:56 PM · Sydney time</b>
   <!--END_SECTION:time-->
 </p>
 
@@ -26,9 +26,9 @@
 <!--START_SECTION:calendar-->
 ### 📅 Today · Tuesday 29 September (Sydney)
 
-- 10:00am–1:00pm · 🟢 **UNI**  ← now
+- 10:00am–1:00pm · 🎓 **UNI**
 
-<sub>🔄 Updated 11:14 AM Sydney · via Google Calendar</sub>
+<sub>🔄 Updated 04:56 PM Sydney · via Google Calendar</sub>
 <!--END_SECTION:calendar-->
 
 <!-- animated rainbow divider -->
