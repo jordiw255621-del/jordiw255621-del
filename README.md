@@ -14,7 +14,7 @@
 
 <p align="center">
   <!--START_SECTION:time-->
-  <b>Wednesday, 30 September 2026 &nbsp;·&nbsp; 04:51 AM · Sydney time</b>
+  <b>Wednesday, 30 September 2026 &nbsp;·&nbsp; 08:45 AM · Sydney time</b>
   <!--END_SECTION:time-->
 </p>
 
@@ -29,7 +29,7 @@
 - 11:30am–12:00pm · 📌 **SURVEY INTERVIEW**
 - 3:00pm–4:00pm · 📌 **SCREENING CALL**
 
-<sub>🔄 Updated 04:51 AM Sydney · via Google Calendar</sub>
+<sub>🔄 Updated 08:45 AM Sydney · via Google Calendar</sub>
 <!--END_SECTION:calendar-->
 
 <!-- animated rainbow divider -->
