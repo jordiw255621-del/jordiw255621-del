@@ -14,7 +14,7 @@
 
 <p align="center">
   <!--START_SECTION:time-->
-  <b>Tuesday, 29 September 2026 &nbsp;·&nbsp; 11:36 PM · Sydney time</b>
+  <b>Wednesday, 30 September 2026 &nbsp;·&nbsp; 04:51 AM · Sydney time</b>
   <!--END_SECTION:time-->
 </p>
 
@@ -24,11 +24,12 @@
 ## 📅 What I'm Up To
 
 <!--START_SECTION:calendar-->
-### 📅 Today · Tuesday 29 September (Sydney)
+### 📅 Today · Wednesday 30 September (Sydney)
 
-- 10:00am–1:00pm · 🎓 **UNI**
+- 11:30am–12:00pm · 📌 **SURVEY INTERVIEW**
+- 3:00pm–4:00pm · 📌 **SCREENING CALL**
 
-<sub>🔄 Updated 11:36 PM Sydney · via Google Calendar</sub>
+<sub>🔄 Updated 04:51 AM Sydney · via Google Calendar</sub>
 <!--END_SECTION:calendar-->
 
 <!-- animated rainbow divider -->
