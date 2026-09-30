@@ -14,7 +14,7 @@
 
 <p align="center">
   <!--START_SECTION:time-->
-  <b>Wednesday, 30 September 2026 &nbsp;·&nbsp; 11:44 AM · Sydney time</b>
+  <b>Wednesday, 30 September 2026 &nbsp;·&nbsp; 05:29 PM · Sydney time</b>
   <!--END_SECTION:time-->
 </p>
 
@@ -26,10 +26,10 @@
 <!--START_SECTION:calendar-->
 ### 📅 Today · Wednesday 30 September (Sydney)
 
-- 11:30am–12:00pm · 🟢 **SURVEY INTERVIEW**  ← now
+- 11:30am–12:00pm · 📌 **SURVEY INTERVIEW**
 - 3:00pm–4:00pm · 📌 **SCREENING CALL**
 
-<sub>🔄 Updated 11:44 AM Sydney · via Google Calendar</sub>
+<sub>🔄 Updated 05:29 PM Sydney · via Google Calendar</sub>
 <!--END_SECTION:calendar-->
 
 <!-- animated rainbow divider -->
