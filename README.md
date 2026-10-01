@@ -14,7 +14,7 @@
 
 <p align="center">
   <!--START_SECTION:time-->
-  <b>Friday, 2 October 2026 &nbsp;·&nbsp; 01:49 AM · Sydney time</b>
+  <b>Friday, 2 October 2026 &nbsp;·&nbsp; 06:40 AM · Sydney time</b>
   <!--END_SECTION:time-->
 </p>
 
@@ -28,7 +28,7 @@
 
 - 3:00pm–4:00pm · 🏋️ **RUN**
 
-<sub>🔄 Updated 01:49 AM Sydney · via Google Calendar</sub>
+<sub>🔄 Updated 06:40 AM Sydney · via Google Calendar</sub>
 <!--END_SECTION:calendar-->
 
 <!-- animated rainbow divider -->
