@@ -14,7 +14,7 @@
 
 <p align="center">
   <!--START_SECTION:time-->
-  <b>Thursday, 1 October 2026 &nbsp;·&nbsp; 12:06 PM · Sydney time</b>
+  <b>Thursday, 1 October 2026 &nbsp;·&nbsp; 06:50 PM · Sydney time</b>
   <!--END_SECTION:time-->
 </p>
 
@@ -26,11 +26,11 @@
 <!--START_SECTION:calendar-->
 ### 📅 Today · Thursday 1 October (Sydney)
 
-- 9:00am–1:00pm · 🟢 **UNI**  ← now
+- 9:00am–1:00pm · 🎓 **UNI**
 - 1:45pm–2:15pm · 📌 **ZOOM SCREENING INTERVIEW**
 - 3:30pm–4:30pm · 📌 **INTERVIEW AT AUBURN**
 
-<sub>🔄 Updated 12:06 PM Sydney · via Google Calendar</sub>
+<sub>🔄 Updated 06:50 PM Sydney · via Google Calendar</sub>
 <!--END_SECTION:calendar-->
 
 <!-- animated rainbow divider -->
