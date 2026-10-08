@@ -14,7 +14,7 @@
 
 <p align="center">
   <!--START_SECTION:time-->
-  <b>Thursday, 8 October 2026 &nbsp;·&nbsp; 08:42 PM · Sydney time</b>
+  <b>Friday, 9 October 2026 &nbsp;·&nbsp; 03:57 AM · Sydney time</b>
   <!--END_SECTION:time-->
 </p>
 
@@ -24,11 +24,11 @@
 ## 📅 What I'm Up To
 
 <!--START_SECTION:calendar-->
-### 📅 Today · Thursday 8 October (Sydney)
+### 📅 Today · Friday 9 October (Sydney)
 
-- 9:00am–1:00pm · 🎓 **UNI**
+- 2:00pm–4:00pm · 📌 **Intro to CI/CD**
 
-<sub>🔄 Updated 08:42 PM Sydney · via Google Calendar</sub>
+<sub>🔄 Updated 03:57 AM Sydney · via Google Calendar</sub>
 <!--END_SECTION:calendar-->
 
 <!-- animated rainbow divider -->
