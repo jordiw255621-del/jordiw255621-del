@@ -14,7 +14,7 @@
 
 <p align="center">
   <!--START_SECTION:time-->
-  <b>Friday, 9 October 2026 &nbsp;·&nbsp; 12:33 PM · Sydney time</b>
+  <b>Friday, 9 October 2026 &nbsp;·&nbsp; 06:59 PM · Sydney time</b>
   <!--END_SECTION:time-->
 </p>
 
@@ -28,7 +28,7 @@
 
 - 2:00pm–4:00pm · 📌 **Intro to CI/CD**
 
-<sub>🔄 Updated 12:33 PM Sydney · via Google Calendar</sub>
+<sub>🔄 Updated 06:59 PM Sydney · via Google Calendar</sub>
 <!--END_SECTION:calendar-->
 
 <!-- animated rainbow divider -->
