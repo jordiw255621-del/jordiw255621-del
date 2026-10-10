@@ -14,7 +14,7 @@
 
 <p align="center">
   <!--START_SECTION:time-->
-  <b>Sunday, 11 October 2026 &nbsp;·&nbsp; 07:11 AM · Sydney time</b>
+  <b>Sunday, 11 October 2026 &nbsp;·&nbsp; 10:31 AM · Sydney time</b>
   <!--END_SECTION:time-->
 </p>
 
@@ -28,7 +28,7 @@
 
 _Nothing scheduled — probably grinding OSRS_ 🧢
 
-<sub>🔄 Updated 07:11 AM Sydney · via Google Calendar</sub>
+<sub>🔄 Updated 10:31 AM Sydney · via Google Calendar</sub>
 <!--END_SECTION:calendar-->
 
 <!-- animated rainbow divider -->
