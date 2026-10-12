@@ -14,7 +14,7 @@
 
 <p align="center">
   <!--START_SECTION:time-->
-  <b>Monday, 12 October 2026 &nbsp;·&nbsp; 08:29 PM · Sydney time</b>
+  <b>Tuesday, 13 October 2026 &nbsp;·&nbsp; 06:13 AM · Sydney time</b>
   <!--END_SECTION:time-->
 </p>
 
@@ -24,11 +24,14 @@
 ## 📅 What I'm Up To
 
 <!--START_SECTION:calendar-->
-### 📅 Today · Monday 12 October (Sydney)
+### 📅 Today · Tuesday 13 October (Sydney)
 
-_Nothing scheduled — probably grinding OSRS_ 🧢
+- 10:00am–1:00pm · 🎓 **UNI**
+- 1:30pm–1:45pm · 📌 **DISCOVERING SCREENING CALL**
+- 3:00pm–3:30pm · 📌 **Jordan Wong - Deployment Technician (NSW) - First Interview**
+- 5:30pm–6:30pm · 📌 **DATE NIGHT**
 
-<sub>🔄 Updated 08:29 PM Sydney · via Google Calendar</sub>
+<sub>🔄 Updated 06:13 AM Sydney · via Google Calendar</sub>
 <!--END_SECTION:calendar-->
 
 <!-- animated rainbow divider -->
