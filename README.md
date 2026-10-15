@@ -14,7 +14,7 @@
 
 <p align="center">
   <!--START_SECTION:time-->
-  <b>Thursday, 15 October 2026 &nbsp;·&nbsp; 03:34 PM · Sydney time</b>
+  <b>Thursday, 15 October 2026 &nbsp;·&nbsp; 08:24 PM · Sydney time</b>
   <!--END_SECTION:time-->
 </p>
 
@@ -28,7 +28,7 @@
 
 - 9:00am–1:00pm · 🎓 **UNI**
 
-<sub>🔄 Updated 03:34 PM Sydney · via Google Calendar</sub>
+<sub>🔄 Updated 08:24 PM Sydney · via Google Calendar</sub>
 <!--END_SECTION:calendar-->
 
 <!-- animated rainbow divider -->
