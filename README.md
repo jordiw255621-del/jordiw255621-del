@@ -14,7 +14,7 @@
 
 <p align="center">
   <!--START_SECTION:time-->
-  <b>Friday, 16 October 2026 &nbsp;·&nbsp; 11:23 PM · Sydney time</b>
+  <b>Saturday, 17 October 2026 &nbsp;·&nbsp; 03:49 AM · Sydney time</b>
   <!--END_SECTION:time-->
 </p>
 
@@ -24,11 +24,11 @@
 ## 📅 What I'm Up To
 
 <!--START_SECTION:calendar-->
-### 📅 Today · Friday 16 October (Sydney)
+### 📅 Today · Saturday 17 October (Sydney)
 
-_Nothing scheduled — probably grinding OSRS_ 🧢
+- 11:00am–12:00pm · 📌 **GRANNY SMITH FESTIVAL EASTWOOD**
 
-<sub>🔄 Updated 11:23 PM Sydney · via Google Calendar</sub>
+<sub>🔄 Updated 03:49 AM Sydney · via Google Calendar</sub>
 <!--END_SECTION:calendar-->
 
 <!-- animated rainbow divider -->
