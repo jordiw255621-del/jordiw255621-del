@@ -14,7 +14,7 @@
 
 <p align="center">
   <!--START_SECTION:time-->
-  <b>Saturday, 17 October 2026 &nbsp;·&nbsp; 08:00 PM · Sydney time</b>
+  <b>Saturday, 17 October 2026 &nbsp;·&nbsp; 11:55 PM · Sydney time</b>
   <!--END_SECTION:time-->
 </p>
 
@@ -28,7 +28,7 @@
 
 - 11:00am–12:00pm · 📌 **GRANNY SMITH FESTIVAL EASTWOOD**
 
-<sub>🔄 Updated 08:00 PM Sydney · via Google Calendar</sub>
+<sub>🔄 Updated 11:55 PM Sydney · via Google Calendar</sub>
 <!--END_SECTION:calendar-->
 
 <!-- animated rainbow divider -->
