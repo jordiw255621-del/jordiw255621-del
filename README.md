@@ -14,7 +14,7 @@
 
 <p align="center">
   <!--START_SECTION:time-->
-  <b>Sunday, 18 October 2026 &nbsp;·&nbsp; 08:20 PM · Sydney time</b>
+  <b>Monday, 19 October 2026 &nbsp;·&nbsp; 12:23 AM · Sydney time</b>
   <!--END_SECTION:time-->
 </p>
 
@@ -24,11 +24,11 @@
 ## 📅 What I'm Up To
 
 <!--START_SECTION:calendar-->
-### 📅 Today · Sunday 18 October (Sydney)
+### 📅 Today · Monday 19 October (Sydney)
 
-_Nothing scheduled — probably grinding OSRS_ 🧢
+- **All day** · 🎓 **24 HR $10000 HACKATHON CASE COMPETITION**
 
-<sub>🔄 Updated 08:20 PM Sydney · via Google Calendar</sub>
+<sub>🔄 Updated 12:23 AM Sydney · via Google Calendar</sub>
 <!--END_SECTION:calendar-->
 
 <!-- animated rainbow divider -->
