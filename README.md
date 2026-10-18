@@ -14,7 +14,7 @@
 
 <p align="center">
   <!--START_SECTION:time-->
-  <b>Monday, 19 October 2026 &nbsp;·&nbsp; 08:10 AM · Sydney time</b>
+  <b>Monday, 19 October 2026 &nbsp;·&nbsp; 10:07 AM · Sydney time</b>
   <!--END_SECTION:time-->
 </p>
 
@@ -28,7 +28,7 @@
 
 - **All day** · 🎓 **24 HR $10000 HACKATHON CASE COMPETITION**
 
-<sub>🔄 Updated 08:10 AM Sydney · via Google Calendar</sub>
+<sub>🔄 Updated 10:07 AM Sydney · via Google Calendar</sub>
 <!--END_SECTION:calendar-->
 
 <!-- animated rainbow divider -->
