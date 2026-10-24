@@ -14,7 +14,7 @@
 
 <p align="center">
   <!--START_SECTION:time-->
-  <b>Saturday, 24 October 2026 &nbsp;·&nbsp; 02:41 PM · Sydney time</b>
+  <b>Saturday, 24 October 2026 &nbsp;·&nbsp; 07:23 PM · Sydney time</b>
   <!--END_SECTION:time-->
 </p>
 
@@ -26,9 +26,9 @@
 <!--START_SECTION:calendar-->
 ### 📅 Today · Saturday 24 October (Sydney)
 
-- 9:15am–4:30pm · 🟢 **WORK**  ← now
+- 9:15am–4:30pm · 💼 **WORK**
 
-<sub>🔄 Updated 02:41 PM Sydney · via Google Calendar</sub>
+<sub>🔄 Updated 07:23 PM Sydney · via Google Calendar</sub>
 <!--END_SECTION:calendar-->
 
 <!-- animated rainbow divider -->
