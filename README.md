@@ -14,7 +14,7 @@
 
 <p align="center">
   <!--START_SECTION:time-->
-  <b>Sunday, 25 October 2026 &nbsp;·&nbsp; 10:51 PM · Sydney time</b>
+  <b>Monday, 26 October 2026 &nbsp;·&nbsp; 02:15 AM · Sydney time</b>
   <!--END_SECTION:time-->
 </p>
 
@@ -24,11 +24,11 @@
 ## 📅 What I'm Up To
 
 <!--START_SECTION:calendar-->
-### 📅 Today · Sunday 25 October (Sydney)
+### 📅 Today · Monday 26 October (Sydney)
 
 _Nothing scheduled — probably grinding OSRS_ 🧢
 
-<sub>🔄 Updated 10:51 PM Sydney · via Google Calendar</sub>
+<sub>🔄 Updated 02:15 AM Sydney · via Google Calendar</sub>
 <!--END_SECTION:calendar-->
 
 <!-- animated rainbow divider -->
