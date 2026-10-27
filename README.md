@@ -14,7 +14,7 @@
 
 <p align="center">
   <!--START_SECTION:time-->
-  <b>Tuesday, 27 October 2026 &nbsp;·&nbsp; 12:48 PM · Sydney time</b>
+  <b>Tuesday, 27 October 2026 &nbsp;·&nbsp; 06:01 PM · Sydney time</b>
   <!--END_SECTION:time-->
 </p>
 
@@ -28,7 +28,7 @@
 
 - 2:00pm–3:00pm · 📌 **BUZZ CUT**
 
-<sub>🔄 Updated 12:48 PM Sydney · via Google Calendar</sub>
+<sub>🔄 Updated 06:01 PM Sydney · via Google Calendar</sub>
 <!--END_SECTION:calendar-->
 
 <!-- animated rainbow divider -->
