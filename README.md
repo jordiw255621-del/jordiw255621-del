@@ -14,7 +14,7 @@
 
 <p align="center">
   <!--START_SECTION:time-->
-  <b>Saturday, 31 October 2026 &nbsp;·&nbsp; 05:50 AM · Sydney time</b>
+  <b>Saturday, 31 October 2026 &nbsp;·&nbsp; 09:43 AM · Sydney time</b>
   <!--END_SECTION:time-->
 </p>
 
@@ -28,7 +28,7 @@
 
 - **All day** · 📌 **llachlan bday**
 
-<sub>🔄 Updated 05:50 AM Sydney · via Google Calendar</sub>
+<sub>🔄 Updated 09:43 AM Sydney · via Google Calendar</sub>
 <!--END_SECTION:calendar-->
 
 <!-- animated rainbow divider -->
