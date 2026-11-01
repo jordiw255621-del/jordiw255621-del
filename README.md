@@ -41,7 +41,7 @@ class Jordan:
     def __init__(self):
         self.location    = "Sydney, Australia 🇦🇺"
         self.education   = "B. Information Technology @ UTS (full-time)"
-        self.role        = "IT @ SocialBoothAU (full-time)"
+        self.role        = "Sales Operations @ Machter Auto Parts (part-time)"
         self.languages   = ["Java", "Python", "HTML"]
         self.focus       = ["cloud infra", "soc", "linux"]
         self.larp        = True
