@@ -14,7 +14,7 @@
 
 <p align="center">
   <!--START_SECTION:time-->
-  <b>Monday, 2 November 2026 &nbsp;·&nbsp; 07:16 PM · Sydney time</b>
+  <b>Tuesday, 3 November 2026 &nbsp;·&nbsp; 05:37 AM · Sydney time</b>
   <!--END_SECTION:time-->
 </p>
 
@@ -24,11 +24,11 @@
 ## 📅 What I'm Up To
 
 <!--START_SECTION:calendar-->
-### 📅 Today · Monday 2 November (Sydney)
+### 📅 Today · Tuesday 3 November (Sydney)
 
-_Nothing scheduled — probably grinding OSRS_ 🧢
+- 3:00pm–4:00pm · 📌 **JINU HANG**
 
-<sub>🔄 Updated 07:16 PM Sydney · via Google Calendar</sub>
+<sub>🔄 Updated 05:37 AM Sydney · via Google Calendar</sub>
 <!--END_SECTION:calendar-->
 
 <!-- animated rainbow divider -->
