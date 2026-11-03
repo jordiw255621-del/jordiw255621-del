@@ -14,7 +14,7 @@
 
 <p align="center">
   <!--START_SECTION:time-->
-  <b>Tuesday, 3 November 2026 &nbsp;·&nbsp; 12:14 PM · Sydney time</b>
+  <b>Tuesday, 3 November 2026 &nbsp;·&nbsp; 06:55 PM · Sydney time</b>
   <!--END_SECTION:time-->
 </p>
 
@@ -28,7 +28,7 @@
 
 - 3:00pm–4:00pm · 📌 **JINU HANG**
 
-<sub>🔄 Updated 12:14 PM Sydney · via Google Calendar</sub>
+<sub>🔄 Updated 06:55 PM Sydney · via Google Calendar</sub>
 <!--END_SECTION:calendar-->
 
 <!-- animated rainbow divider -->
