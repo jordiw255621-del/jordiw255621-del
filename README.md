@@ -14,7 +14,7 @@
 
 <p align="center">
   <!--START_SECTION:time-->
-  <b>Wednesday, 4 November 2026 &nbsp;·&nbsp; 06:40 PM · Sydney time</b>
+  <b>Thursday, 5 November 2026 &nbsp;·&nbsp; 02:45 AM · Sydney time</b>
   <!--END_SECTION:time-->
 </p>
 
@@ -24,11 +24,12 @@
 ## 📅 What I'm Up To
 
 <!--START_SECTION:calendar-->
-### 📅 Today · Wednesday 4 November (Sydney)
+### 📅 Today · Thursday 5 November (Sydney)
 
-_Nothing scheduled — probably grinding OSRS_ 🧢
+- 3:00pm–4:00pm · 📌 **RYDE APPOINTMENT**
+- 6:00pm–7:00pm · 📌 **DANIEL CAESAR 🥵**
 
-<sub>🔄 Updated 06:40 PM Sydney · via Google Calendar</sub>
+<sub>🔄 Updated 02:45 AM Sydney · via Google Calendar</sub>
 <!--END_SECTION:calendar-->
 
 <!-- animated rainbow divider -->
