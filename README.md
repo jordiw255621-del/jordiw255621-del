@@ -14,7 +14,7 @@
 
 <p align="center">
   <!--START_SECTION:time-->
-  <b>Thursday, 5 November 2026 &nbsp;·&nbsp; 07:43 PM · Sydney time</b>
+  <b>Friday, 6 November 2026 &nbsp;·&nbsp; 03:51 AM · Sydney time</b>
   <!--END_SECTION:time-->
 </p>
 
@@ -24,12 +24,11 @@
 ## 📅 What I'm Up To
 
 <!--START_SECTION:calendar-->
-### 📅 Today · Thursday 5 November (Sydney)
+### 📅 Today · Friday 6 November (Sydney)
 
-- 3:00pm–4:00pm · 📌 **RYDE APPOINTMENT**
-- 6:00pm–7:00pm · 📌 **DANIEL CAESAR 🥵**
+- **All day** · 📌 **MARKETING TRAINING**
 
-<sub>🔄 Updated 07:43 PM Sydney · via Google Calendar</sub>
+<sub>🔄 Updated 03:51 AM Sydney · via Google Calendar</sub>
 <!--END_SECTION:calendar-->
 
 <!-- animated rainbow divider -->
