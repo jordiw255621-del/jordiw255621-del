@@ -14,7 +14,7 @@
 
 <p align="center">
   <!--START_SECTION:time-->
-  <b>Friday, 6 November 2026 &nbsp;·&nbsp; 03:51 AM · Sydney time</b>
+  <b>Friday, 6 November 2026 &nbsp;·&nbsp; 09:27 AM · Sydney time</b>
   <!--END_SECTION:time-->
 </p>
 
@@ -28,7 +28,7 @@
 
 - **All day** · 📌 **MARKETING TRAINING**
 
-<sub>🔄 Updated 03:51 AM Sydney · via Google Calendar</sub>
+<sub>🔄 Updated 09:27 AM Sydney · via Google Calendar</sub>
 <!--END_SECTION:calendar-->
 
 <!-- animated rainbow divider -->
