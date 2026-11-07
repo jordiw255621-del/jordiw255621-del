@@ -14,7 +14,7 @@
 
 <p align="center">
   <!--START_SECTION:time-->
-  <b>Saturday, 7 November 2026 &nbsp;·&nbsp; 06:59 PM · Sydney time</b>
+  <b>Sunday, 8 November 2026 &nbsp;·&nbsp; 01:44 AM · Sydney time</b>
   <!--END_SECTION:time-->
 </p>
 
@@ -24,11 +24,11 @@
 ## 📅 What I'm Up To
 
 <!--START_SECTION:calendar-->
-### 📅 Today · Saturday 7 November (Sydney)
+### 📅 Today · Sunday 8 November (Sydney)
 
-_Nothing scheduled — probably grinding OSRS_ 🧢
+- **All day** · 📌 **ryan chung bday**
 
-<sub>🔄 Updated 06:59 PM Sydney · via Google Calendar</sub>
+<sub>🔄 Updated 01:44 AM Sydney · via Google Calendar</sub>
 <!--END_SECTION:calendar-->
 
 <!-- animated rainbow divider -->
