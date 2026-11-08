@@ -14,7 +14,7 @@
 
 <p align="center">
   <!--START_SECTION:time-->
-  <b>Sunday, 8 November 2026 &nbsp;·&nbsp; 07:18 PM · Sydney time</b>
+  <b>Monday, 9 November 2026 &nbsp;·&nbsp; 02:26 AM · Sydney time</b>
   <!--END_SECTION:time-->
 </p>
 
@@ -24,11 +24,11 @@
 ## 📅 What I'm Up To
 
 <!--START_SECTION:calendar-->
-### 📅 Today · Sunday 8 November (Sydney)
+### 📅 Today · Monday 9 November (Sydney)
 
-- **All day** · 📌 **ryan chung bday**
+- 5:00pm–6:00pm · 🏐 **VOLLEYBALL**
 
-<sub>🔄 Updated 07:18 PM Sydney · via Google Calendar</sub>
+<sub>🔄 Updated 02:26 AM Sydney · via Google Calendar</sub>
 <!--END_SECTION:calendar-->
 
 <!-- animated rainbow divider -->
