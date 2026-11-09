@@ -14,7 +14,7 @@
 
 <p align="center">
   <!--START_SECTION:time-->
-  <b>Monday, 9 November 2026 &nbsp;·&nbsp; 09:37 PM · Sydney time</b>
+  <b>Tuesday, 10 November 2026 &nbsp;·&nbsp; 08:03 AM · Sydney time</b>
   <!--END_SECTION:time-->
 </p>
 
@@ -24,11 +24,11 @@
 ## 📅 What I'm Up To
 
 <!--START_SECTION:calendar-->
-### 📅 Today · Monday 9 November (Sydney)
+### 📅 Today · Tuesday 10 November (Sydney)
 
-- 5:00pm–6:00pm · 🏐 **VOLLEYBALL**
+_Nothing scheduled — probably grinding OSRS_ 🧢
 
-<sub>🔄 Updated 09:37 PM Sydney · via Google Calendar</sub>
+<sub>🔄 Updated 08:03 AM Sydney · via Google Calendar</sub>
 <!--END_SECTION:calendar-->
 
 <!-- animated rainbow divider -->
