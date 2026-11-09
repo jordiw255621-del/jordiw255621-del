@@ -14,7 +14,7 @@
 
 <p align="center">
   <!--START_SECTION:time-->
-  <b>Monday, 9 November 2026 &nbsp;·&nbsp; 10:17 AM · Sydney time</b>
+  <b>Monday, 9 November 2026 &nbsp;·&nbsp; 01:48 PM · Sydney time</b>
   <!--END_SECTION:time-->
 </p>
 
@@ -28,7 +28,7 @@
 
 - 5:00pm–6:00pm · 🏐 **VOLLEYBALL**
 
-<sub>🔄 Updated 10:17 AM Sydney · via Google Calendar</sub>
+<sub>🔄 Updated 01:48 PM Sydney · via Google Calendar</sub>
 <!--END_SECTION:calendar-->
 
 <!-- animated rainbow divider -->
