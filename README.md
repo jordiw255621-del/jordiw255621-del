@@ -14,7 +14,7 @@
 
 <p align="center">
   <!--START_SECTION:time-->
-  <b>Friday, 13 November 2026 &nbsp;·&nbsp; 01:53 PM · Sydney time</b>
+  <b>Friday, 13 November 2026 &nbsp;·&nbsp; 09:19 PM · Sydney time</b>
   <!--END_SECTION:time-->
 </p>
 
@@ -28,9 +28,9 @@
 
 - **All day** · 📌 **MARKETING TRAINING**
 - **All day** · 🏐 **VOLLEYBALL**
-- 8:00am–4:30pm · 🟢 **WORK**  ← now
+- 8:00am–4:30pm · 💼 **WORK**
 
-<sub>🔄 Updated 01:53 PM Sydney · via Google Calendar</sub>
+<sub>🔄 Updated 09:19 PM Sydney · via Google Calendar</sub>
 <!--END_SECTION:calendar-->
 
 <!-- animated rainbow divider -->
