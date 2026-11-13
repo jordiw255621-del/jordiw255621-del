@@ -14,7 +14,7 @@
 
 <p align="center">
   <!--START_SECTION:time-->
-  <b>Friday, 13 November 2026 &nbsp;·&nbsp; 09:19 PM · Sydney time</b>
+  <b>Saturday, 14 November 2026 &nbsp;·&nbsp; 04:55 AM · Sydney time</b>
   <!--END_SECTION:time-->
 </p>
 
@@ -24,13 +24,11 @@
 ## 📅 What I'm Up To
 
 <!--START_SECTION:calendar-->
-### 📅 Today · Friday 13 November (Sydney)
+### 📅 Today · Saturday 14 November (Sydney)
 
-- **All day** · 📌 **MARKETING TRAINING**
-- **All day** · 🏐 **VOLLEYBALL**
-- 8:00am–4:30pm · 💼 **WORK**
+- 1:00pm–2:00pm · 📌 **GAB GOING PH 🇵🇭🇵🇭**
 
-<sub>🔄 Updated 09:19 PM Sydney · via Google Calendar</sub>
+<sub>🔄 Updated 04:55 AM Sydney · via Google Calendar</sub>
 <!--END_SECTION:calendar-->
 
 <!-- animated rainbow divider -->
