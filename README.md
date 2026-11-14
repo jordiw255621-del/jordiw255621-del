@@ -14,7 +14,7 @@
 
 <p align="center">
   <!--START_SECTION:time-->
-  <b>Saturday, 14 November 2026 &nbsp;·&nbsp; 02:09 PM · Sydney time</b>
+  <b>Saturday, 14 November 2026 &nbsp;·&nbsp; 09:15 PM · Sydney time</b>
   <!--END_SECTION:time-->
 </p>
 
@@ -28,7 +28,7 @@
 
 - 1:00pm–2:00pm · 📌 **GAB GOING PH 🇵🇭🇵🇭**
 
-<sub>🔄 Updated 02:09 PM Sydney · via Google Calendar</sub>
+<sub>🔄 Updated 09:15 PM Sydney · via Google Calendar</sub>
 <!--END_SECTION:calendar-->
 
 <!-- animated rainbow divider -->
