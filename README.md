@@ -14,7 +14,7 @@
 
 <p align="center">
   <!--START_SECTION:time-->
-  <b>Saturday, 14 November 2026 &nbsp;·&nbsp; 09:15 PM · Sydney time</b>
+  <b>Sunday, 15 November 2026 &nbsp;·&nbsp; 03:39 AM · Sydney time</b>
   <!--END_SECTION:time-->
 </p>
 
@@ -24,11 +24,11 @@
 ## 📅 What I'm Up To
 
 <!--START_SECTION:calendar-->
-### 📅 Today · Saturday 14 November (Sydney)
+### 📅 Today · Sunday 15 November (Sydney)
 
-- 1:00pm–2:00pm · 📌 **GAB GOING PH 🇵🇭🇵🇭**
+_Nothing scheduled — probably grinding OSRS_ 🧢
 
-<sub>🔄 Updated 09:15 PM Sydney · via Google Calendar</sub>
+<sub>🔄 Updated 03:39 AM Sydney · via Google Calendar</sub>
 <!--END_SECTION:calendar-->
 
 <!-- animated rainbow divider -->
