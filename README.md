@@ -14,7 +14,7 @@
 
 <p align="center">
   <!--START_SECTION:time-->
-  <b>Monday, 16 November 2026 &nbsp;·&nbsp; 06:57 AM · Sydney time</b>
+  <b>Monday, 16 November 2026 &nbsp;·&nbsp; 10:42 AM · Sydney time</b>
   <!--END_SECTION:time-->
 </p>
 
@@ -27,9 +27,9 @@
 ### 📅 Today · Monday 16 November (Sydney)
 
 - **All day** · 📌 **gab bday**
-- 8:00am–4:30pm · 💼 **WORK**
+- 8:00am–4:30pm · 🟢 **WORK**  ← now
 
-<sub>🔄 Updated 06:57 AM Sydney · via Google Calendar</sub>
+<sub>🔄 Updated 10:42 AM Sydney · via Google Calendar</sub>
 <!--END_SECTION:calendar-->
 
 <!-- animated rainbow divider -->
