@@ -14,7 +14,7 @@
 
 <p align="center">
   <!--START_SECTION:time-->
-  <b>Monday, 16 November 2026 &nbsp;·&nbsp; 10:04 PM · Sydney time</b>
+  <b>Tuesday, 17 November 2026 &nbsp;·&nbsp; 07:58 AM · Sydney time</b>
   <!--END_SECTION:time-->
 </p>
 
@@ -24,12 +24,11 @@
 ## 📅 What I'm Up To
 
 <!--START_SECTION:calendar-->
-### 📅 Today · Monday 16 November (Sydney)
+### 📅 Today · Tuesday 17 November (Sydney)
 
-- **All day** · 📌 **gab bday**
-- 8:00am–4:30pm · 💼 **WORK**
+_Nothing scheduled — probably grinding OSRS_ 🧢
 
-<sub>🔄 Updated 10:04 PM Sydney · via Google Calendar</sub>
+<sub>🔄 Updated 07:58 AM Sydney · via Google Calendar</sub>
 <!--END_SECTION:calendar-->
 
 <!-- animated rainbow divider -->
