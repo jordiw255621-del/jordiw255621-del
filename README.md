@@ -14,7 +14,7 @@
 
 <p align="center">
   <!--START_SECTION:time-->
-  <b>Monday, 23 November 2026 &nbsp;·&nbsp; 09:46 AM · Sydney time</b>
+  <b>Monday, 23 November 2026 &nbsp;·&nbsp; 02:21 PM · Sydney time</b>
   <!--END_SECTION:time-->
 </p>
 
@@ -28,7 +28,7 @@
 
 - 8:00am–4:30pm · 🟢 **WORK**  ← now
 
-<sub>🔄 Updated 09:46 AM Sydney · via Google Calendar</sub>
+<sub>🔄 Updated 02:21 PM Sydney · via Google Calendar</sub>
 <!--END_SECTION:calendar-->
 
 <!-- animated rainbow divider -->
