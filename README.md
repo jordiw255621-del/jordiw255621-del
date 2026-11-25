@@ -14,7 +14,7 @@
 
 <p align="center">
   <!--START_SECTION:time-->
-  <b>Wednesday, 25 November 2026 &nbsp;·&nbsp; 07:55 AM · Sydney time</b>
+  <b>Wednesday, 25 November 2026 &nbsp;·&nbsp; 02:53 PM · Sydney time</b>
   <!--END_SECTION:time-->
 </p>
 
@@ -26,9 +26,9 @@
 <!--START_SECTION:calendar-->
 ### 📅 Today · Wednesday 25 November (Sydney)
 
-- 8:00am–4:30pm · 💼 **WORK**
+- 8:00am–4:30pm · 🟢 **WORK**  ← now
 
-<sub>🔄 Updated 07:55 AM Sydney · via Google Calendar</sub>
+<sub>🔄 Updated 02:53 PM Sydney · via Google Calendar</sub>
 <!--END_SECTION:calendar-->
 
 <!-- animated rainbow divider -->
