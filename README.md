@@ -14,7 +14,7 @@
 
 <p align="center">
   <!--START_SECTION:time-->
-  <b>Friday, 27 November 2026 &nbsp;·&nbsp; 03:58 PM · Sydney time</b>
+  <b>Saturday, 28 November 2026 &nbsp;·&nbsp; 01:43 AM · Sydney time</b>
   <!--END_SECTION:time-->
 </p>
 
@@ -24,11 +24,12 @@
 ## 📅 What I'm Up To
 
 <!--START_SECTION:calendar-->
-### 📅 Today · Friday 27 November (Sydney)
+### 📅 Today · Saturday 28 November (Sydney)
 
-_Nothing scheduled — probably grinding OSRS_ 🧢
+- **All day** · 📌 **IVANS BDAY**
+- **All day** · 📌 **6TH MONTH ANNIVERSARY**
 
-<sub>🔄 Updated 03:58 PM Sydney · via Google Calendar</sub>
+<sub>🔄 Updated 01:43 AM Sydney · via Google Calendar</sub>
 <!--END_SECTION:calendar-->
 
 <!-- animated rainbow divider -->
