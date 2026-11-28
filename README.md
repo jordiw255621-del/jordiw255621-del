@@ -14,7 +14,7 @@
 
 <p align="center">
   <!--START_SECTION:time-->
-  <b>Saturday, 28 November 2026 &nbsp;·&nbsp; 03:28 PM · Sydney time</b>
+  <b>Sunday, 29 November 2026 &nbsp;·&nbsp; 12:26 AM · Sydney time</b>
   <!--END_SECTION:time-->
 </p>
 
@@ -24,12 +24,11 @@
 ## 📅 What I'm Up To
 
 <!--START_SECTION:calendar-->
-### 📅 Today · Saturday 28 November (Sydney)
+### 📅 Today · Sunday 29 November (Sydney)
 
-- **All day** · 📌 **IVANS BDAY**
-- **All day** · 📌 **6TH MONTH ANNIVERSARY**
+- 11:30am–12:30pm · 📌 **CPC BAPTISM**
 
-<sub>🔄 Updated 03:28 PM Sydney · via Google Calendar</sub>
+<sub>🔄 Updated 12:26 AM Sydney · via Google Calendar</sub>
 <!--END_SECTION:calendar-->
 
 <!-- animated rainbow divider -->
